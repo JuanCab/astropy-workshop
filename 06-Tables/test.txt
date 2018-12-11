@@ -1,0 +1,6 @@
+name flux logflux
+larry 1.20 0.08
+curly 2.20 0.34
+moe 3.10 0.49
+shemp 4.30 0.63
+joe 10.10 1.00
