@@ -25,6 +25,8 @@ https://docs.anaconda.com/anaconda/install/
 Choose between installing the full Anaconda (3 GB) or  Miniconda (400 MB).
 Miniconda comes with fewer default packages so it's faster to download and takes up less drive space. 
 
+**WINDOWS USERS**: Unless you are using a really old computer, you want to install the 64-bit version of the Miniconda or Anaconda package.  This is indicated by the name of the installer ending in `x86_64` and *NOT* `x86`.  We currently do *NOT* support 32-bit installations (because some of the packages are not available in 32-bit versions).
+
 ## 3. Create a conda environment for the workshop
 *Anaconda includes an environment manager called conda.  You can create, export, list, remove and update environments that have different versions of Python and/or packages installed in them.* 
 
